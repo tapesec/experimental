@@ -1,0 +1,24 @@
+{
+  "name": "experimental",
+  "version": "1.0.0",
+  "description": "experimental-server about testing programming features",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapesec/experimental.git"
+  },
+  "author": "tapesec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapesec/experimental/issues"
+  },
+  "homepage": "https://github.com/tapesec/experimental",
+  "dependencies": {
+    "ejs": "^2.3.2",
+    "express": "^4.13.1",
+    "grunt-cli": "^0.1.13"
+  }
+}
